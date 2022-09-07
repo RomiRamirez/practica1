@@ -1,4 +1,9 @@
 pan 
 galletitas
 queso
-frutas
+frutas 
+7/09
+verduras
+fideos
+arroz 
+choclo
