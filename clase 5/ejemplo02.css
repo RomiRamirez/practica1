@@ -1,0 +1,10 @@
+/* font-family: 'Dancing Script', cursive;
+font-family: 'Open Sans', sans-serif;
+ */
+ h2{
+    color: red;
+    font-family:'Dancing Script', cursive ;
+ }
+p{
+    font-family:'Open Sans', sans-serif ;
+}
