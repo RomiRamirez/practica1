@@ -1,0 +1,31 @@
+.contenedor{
+    background-color:grey;
+    width: 60%;
+    margin: 0 auto;
+    height: 500px;
+
+}
+.verde{
+    background-color: lightgreen;
+    width: 90%;
+    margin: 0 auto 20px;
+    height: 150px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    
+}
+.celeste{
+    background-color: lightblue;
+    width: 90%;
+    margin: 0 auto 20px;
+    height: 150px;
+    
+}
+.amarillo{
+    background-color: yellow;
+    width: 90%;
+    margin: 0 auto 20px;
+    height: 150px;
+    
+}
