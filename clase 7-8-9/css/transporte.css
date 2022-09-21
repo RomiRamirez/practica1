@@ -4,6 +4,7 @@ body{
 
 header{
     background-color: #2e64a1;
+    padding: 16px 0;
 }
 
 h1{
@@ -13,11 +14,13 @@ h1{
     display: inline-block;
     position: relative;
     bottom: 35px;
+    margin: 0;
 
 }
 
 nav{
     background-color: #6da9ed;
+    margin-bottom: 20px;
 }
 
 nav ul{
@@ -30,4 +33,85 @@ nav ul{
 nav ul li{
     flex-grow: 1;
 
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    display: block;
+    text-align: center;
+}
+
+nav ul li a:hover{
+    background-color:rgba(0,0,0,0.3);
+    
+}
+
+nav ul li a.activo{
+    background-color: #4c76a5;
+}
+
+footer{
+    background-color: #ccc;
+    text-align: center;
+    padding: 40px 0;
+    margin-top: 20px;
+}
+
+.holder{
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+h2{
+    color: #2e64a1;
+    font-weight: 400;
+}
+
+.bienvenidos{
+    width: 75%;
+    padding-right: 16px;
+    
+}
+
+
+.testimonios{
+    width: 25%;
+    /* background-color: lightcoral; */
+}
+
+.columnas{
+    display: flex;
+
+}
+
+.testimonio{
+    background-color: #ccc;
+    padding: 16px;
+}
+
+.testimonio .cita{
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+    background-color: yellow;
+    display: block;
+}
+.testimonio .autor{
+    font-size: 11px;
+    background-color: lightblue;
+    text-align: center;
+    display: block;
+    margin-top: 16px;
+}
+    
+.historia p{
+    font-size: 13px;
+}    
+
+.persona{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 18%;
 }
