@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Gomez",
+        "edad": 24
+    },
+    {
+        "nombre": "Pablo",
+        "apellido": "Perez",
+        "edad": 25
+    },
+    {
+        "nombre": "Matias",
+        "apellido": "Lopez",
+        "edad": 34
+    },
+    {
+        "nombre": "Abril",
+        "apellido": "Martinez",
+        "edad": 28
+    },
+    {
+        "nombre": "Facundo",
+        "apellido": "Wehrli",
+        "edad": 44
+    },
+    {
+        "nombre": "Gonzalo",
+        "apellido": "Lopez",
+        "edad": 34
+    },
+    {
+        "nombre": "Tomas",
+        "apellido": "Martinez",
+        "edad": 28
+    },
+    {
+        "nombre": "Aldana",
+        "apellido": "Wehrli",
+        "edad": 44
+    }
+]
